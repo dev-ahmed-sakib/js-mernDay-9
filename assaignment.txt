@@ -1,0 +1,39 @@
+ul,li access using DOM
+
+access id,class,tag using by
+getElementbyId
+getElementsbyclassName
+getElementsbyTagName
+QuerySelector
+QuerySelectorAll
+
+take "1 id" and change these value using innerText
+take "1 class" and change these value using innerText
+change innerText with specific html tag add
+
+take a class using querySelector and change these color and bacground color add css active class in nth-child using javascript DOM className
+
+setAttribute (set some attibute list)
+set id/class as attribute saparate way
+getAttribute
+hasAttribute
+removeAttribute
+
+classList.add
+classList.remove
+classList.contains
+
+multiple class add and remove
+create a multiple div class and access these inside value children and color the div && parents div/class access
+
+access div classes  like css way
+
+create a div  they has 2 children div and access they're firstElementChild & lastElementChild
+
+make some tags and acess they're previous and next tag using sibling element
+
+create a list of tag and print they're all then add color & bg after done it then add odd & even color
+
+final make a team member fully dynamic
+
+https://drive.google.com/drive/folders/1PpFQGFxT90-rwqVmPSFU7rJrZpQ1rHod?fbclid=IwZXh0bgNhZW0CMTAAAR3OEgnd6XQK5nfjAcQfV3JDrhOZq7hks8-RohSaXfuvMvT7lLo8zLotulw_aem_AbKhtnh7LSV7xSnVK_WmicJqzG_TzQHqnZ5Zq7kBs_WJtTn7sZwL-6ySEmqKG9ew6Q92z-y4UjDazy9MS963LboB

@@ -1,0 +1,20 @@
+ul li{
+  list-style-type: none;
+}
+table, th, td {
+  border:1px solid black;
+  padding: 20px;
+}
+table{
+  padding: 20px;
+}
+.myNumber{
+  color: #fff;
+  background-color: green;
+  padding: 20px;
+  border-radius: 10px;
+  display: inline-block;
+  font-weight: bold;
+  font-size: 20px;
+}
+
